@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About Me"
+title                    : "Bio"
 title_separator          : "-"
 name                     : &name "Summer Ligon"
 description              : &description "I graduated from Georgia College & State University with a BS in Economics accompanied with a minor in Mathematics. "
