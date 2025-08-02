@@ -15,50 +15,35 @@ Education
 * M.S. in Economics, Georgia Institute of Technology, 2024
 * B.S. in Economics and minor in Mathematics, Georgia College & State University, 2023
 
-Work experience
+Work/Professional Experience 
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2023 - May 2024: Math and Econ GTAA Tutor
+  * Georgia Institute of Technology 
+  * Duties includes: tutoring math and economics to student ahtletes 
+  * Supervisor: Georgia Tech Athletic Association 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2020 - May 2023: Math and Econ Peer Tutor 
+  * Georgia College & State University
+  * Duties included: tutoring math and economics 
+  * Supervisor: Georgia College Learning Center 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2022 - December 2022: Pass Plus Instrucor
+  * Georgia College & State University
+  * Duties included: Holding lessons for ECON 2100 exams 
+  * Supervisor: Dr. Christopher Clark
+ 
+* August 2019 - May 2023: Varsity Women's Soccer 
+  * Georgia College & State University
+  * Duties included: NCAA Division II, All-PBC conference player
+  * Supervisor: Head Coach Jack Marhcant 
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Python
+* STATA
+* LATEX
 
 Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Teaching 
