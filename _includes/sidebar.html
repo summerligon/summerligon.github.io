@@ -2,8 +2,7 @@
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-    <img src="{{ "/Summer Ligon-002.JPG" | relative_url }}" alt="Profile Photo" style="width:150px; border-radius:50%;">
-
+  <img src="{{ "/Summer Ligon-002.JPG" | relative_url }}" alt="Profile Photo" style="width:150px; border-radius:50%;">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
