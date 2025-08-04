@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Bio"
+title                    : "Summer Ligon"
 title_separator          : "-"
 name                     : &name "Summer Ligon"
 description              : &description "Academic Wesbite"
 url                      : "https://summerligon.github.io"
 baseurl                  : "" 
-repository               : "https://summerligon.github.io/"
+repository               : "https://summerligon.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
