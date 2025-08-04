@@ -22,8 +22,8 @@ repository               : "https://summerligon.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
   name             : "Summer Ligon"
+  avatar           : "/Summer Ligon-002.JPG"
   pronouns         : # example: "she/her"  
   bio              : "Economics Ph.D. Student <br> sligon@emory.edu"
   employer         : "Emory University"
