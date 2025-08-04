@@ -13,7 +13,7 @@ title                    : "Bio"
 title_separator          : "-"
 name                     : &name "Summer Ligon"
 description              : &description "Academic Wesbite"
-url                      : https://summerligon.github.io/
+url                      : "https://summerligon.github.io"
 baseurl                  : "" 
 repository               : "https://summerligon.github.io/"
 
