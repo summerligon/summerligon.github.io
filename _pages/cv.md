@@ -39,11 +39,5 @@ Work/Professional Experience
   
 Technical Skills
 ======
-* R
-* Python
-* STATA
-* LATEX
+* R, Python, STATA, LATEX
 
-Publications
-
-Teaching 
